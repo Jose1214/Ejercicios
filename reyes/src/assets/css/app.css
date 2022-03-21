@@ -1,0 +1,10 @@
+.Contenedor__Padre {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr)
+}
+.Contenedor__hijo {
+    background-color: goldenrod;
+    margin: 5px;
+    text-align: center;
+    color: aliceblue;
+}
